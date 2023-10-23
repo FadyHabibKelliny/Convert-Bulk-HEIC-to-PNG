@@ -23,10 +23,12 @@ maybe you will need other packeges put
 cd Convert-Bulk-HEIC-to-PNG
 ```
 
+Install and upgrade the pip from Python console
 ```shell
 python -m pip install --upgrade pip
 ```
 
+Install heic2png from Python console
 ```shell
 pip install heic2png
 ```
@@ -34,13 +36,16 @@ pip install heic2png
 Usage
 Follow these steps to use the HEIC to PNG conversion tool:
 
-Place your HEIC files in the source folder.
+1- Change your source and destination path in the script 
 
-Source Folder Path: "~/put/your/Source/path/folder"  #the folder that contains HEIC images
-Open your command prompt or terminal.
+source_folder = "/put/your/Source/path/folder"  #the folder that contains HEIC images.
 
-Navigate to the project directory:
+destination_folder = "/put/your/destination/path" #the folder that will contain PNG images.
 
+2- Run the script from your IDE
+OR 
+
+If you run it from the console 
 ```shell
 python convert_heic_to_png.py
 ```
@@ -65,8 +70,7 @@ This tool uses the heic2png library to perform the HEIC to PNG conversion. Visit
 
 
 ## Support This simple script to continue updating 
-
 If you find this project helpful and would like to support its development, you can make a donation through the following platforms:
 
-- [PayPal](https://www.paypal.com/paypalme/fadykelliny)
+Donate - [PayPal](https://www.paypal.com/paypalme/fadykelliny)
 
