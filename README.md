@@ -24,9 +24,12 @@ cd Convert-Bulk-HEIC-to-PNG
 ```
 
 ```shell
-pip install -r requirements.txt
+python -m pip install --upgrade pip
 ```
 
+```shell
+pip install heic2png
+```
 
 Usage
 Follow these steps to use the HEIC to PNG conversion tool:
