@@ -9,8 +9,8 @@ import csv
 from heic2png import HEIC2PNG
 
 # Source and destination folders
-source_folder = "C:/Users/Fady/Downloads/MU/MU/1"
-destination_folder = "C:/Users/Fady/Downloads/MU/conv1"
+source_folder = "~/put/your/Source/path/folder"
+destination_folder = "~/put/your/destination/path"
 
 # Create the destination folder if it doesn't exist☺
 os.makedirs(destination_folder, exist_ok=True)
