@@ -59,3 +59,11 @@ If you face any errors or need assistance, feel free to open an issue on the Git
 
 Credits
 This tool uses the heic2png library to perform the HEIC to PNG conversion. Visit the heic2png GitHub repository for more information.
+
+
+## Support This simple script to continue updating 
+
+If you find this project helpful and would like to support its development, you can make a donation through the following platforms:
+
+- [PayPal](https://www.paypal.com/paypalme/fadykelliny)
+
